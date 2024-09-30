@@ -1,0 +1,19 @@
+/* fonts link */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Ubuntu:wght@300&display=swap');
+
+/* Common css start */
+.ques{
+    padding: 10px 0;
+}
+.ans{
+    padding: 15px 0;
+}
+
+#draggable{
+    width: 150px;
+    height: 150px;
+    padding: 0 5em;
+    background-color:blue ;
+}
